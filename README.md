@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**CripBoy/cripboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Pedro** also known as **Cripboy** and I am a ...
 
-Here are some ideas to get you started:
+- 🎮 Game developer
+- 📡 Web developer
+- 📐 UI designer
+- 🎨 Artist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Here are some of my stuffs
+
+📡 **Web**
+- [Javascript Sketch Book]()
+- [Personal webpage]()
+
+👾 **Games**
+- [Mario clone in javascript]()
