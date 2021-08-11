@@ -15,3 +15,4 @@ My name is **Pedro** also known as **Cripboy** and I am a ...
 
 **Game tools and games**
 - [Aseprite loader for lua](https://github.com/CripBoy/love-ase)
+- [Blue Horizon (game)](https://github.com/CripBoy/blue-horizon)
