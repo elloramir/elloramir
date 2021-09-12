@@ -9,10 +9,13 @@ My name is **Pedro** also known as **Cripboy** and I am a ...
 
 ### Here are some of my stuffs
 
-**Web tools/application**
+**Javascript/web**
 - [Javascript Sketch Book](https://github.com/CripBoy/sketch-book-js)
-- [Tilemap Editor](https://github.com/CripBoy/hero-tile)
+- [Tilemap Editor (early)](https://github.com/CripBoy/hero-tile)
 - [Personal webpage](https://cripboy.github.io/)
 
-**Game tools and games**
+**Lua**
 - [Aseprite loader for lua](https://github.com/CripBoy/love-ase)
+
+**C/C++**
+- [Mystic Engine](https://github.com/CripBoy/mystic-engine)
