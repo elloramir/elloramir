@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Pedro** also known as **Cripboy** and I am a ...
+My name is **Pedro**, also known as **Cripboy**, and I am a ...
 
 - 🎮 Game developer
 - 📡 Web developer
