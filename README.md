@@ -17,5 +17,5 @@ My name is **Pedro**, also known as **Cripboy**, and I am a ...
 **Lua**
 - [Aseprite loader for lua](https://github.com/CripBoy/love-ase)
 
-**C/C++**
+**GO**
 - [Mystic Engine](https://github.com/CripBoy/mystic-engine)
