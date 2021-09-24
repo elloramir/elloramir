@@ -11,7 +11,6 @@ My name is **Pedro**, also known as **Cripboy**, and I am a ...
 
 **Javascript/web**
 - [Javascript Sketch Book](https://github.com/CripBoy/sketch-book-js)
-- [Tilemap Editor (early)](https://github.com/CripBoy/hero-tile)
 - [Personal webpage](https://cripboy.github.io/)
 
 **Lua**
