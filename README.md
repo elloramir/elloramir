@@ -15,3 +15,4 @@ My name is **Pedro**, also known as **Cripboy**, and I am a ...
 
 **Lua**
 - [Aseprite loader for lua](https://github.com/CripBoy/love-ase)
+- [Ludum Dare 49](https://github.com/CripBoy/ludum-dare-49)
