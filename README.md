@@ -9,3 +9,4 @@ My name is **Pedro**, aka **Cripboy**, I am a
 ### Here is the beginning of me 😁
 
 - [Aseprite loader for lua](https://github.com/CripBoy/love-ase)
+- [Texture packer for love2d](https://github.com/CripBoy/packer)
