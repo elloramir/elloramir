@@ -1,9 +1,9 @@
 ### Hi there 👋 ☕
 
-My name is **Pedro**, aka **Cripboy**, I am a
+My name is **Pedro**, aka **Elloramir**, I am a
 
 - Game developer
-- Web developer
+- Web developer?
 - Artist
 
 ### Here is the beginning of me 😁
