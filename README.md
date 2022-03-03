@@ -1,12 +1,13 @@
-### Hi there 👋 ☕
+## やあ 👋
 
-My name is **Pedro**, aka **Elloramir**, I am a
-
+my name is **Pedro**, aka **Elloramir**, I am a
 - Game developer
-- Web developer?
-- Artist
+- Web developer? (maybe)
+- 2d Artist
 
-### Here is the beginning of me 😁
+![](https://data.whicdn.com/images/96225910/original.gif)
 
+
+### libs
 - [Aseprite loader for lua](https://github.com/CripBoy/love-ase)
 - [Texture packer for love2d](https://github.com/CripBoy/packer)
