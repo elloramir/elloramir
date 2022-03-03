@@ -8,6 +8,6 @@ my name is **Pedro**, aka **Elloramir**, I am a
 ![](https://data.whicdn.com/images/96225910/original.gif)
 
 
-### libs
-- [Aseprite loader for lua](https://github.com/CripBoy/love-ase)
-- [Texture packer for love2d](https://github.com/CripBoy/packer)
+### work
+- [Aseprite loader for lua](https://github.com/elloramir/love-ase)
+- [Texture packer for love2d](https://github.com/elloramir/packer)
