@@ -5,7 +5,8 @@ my name is **Pedro**, aka **Elloramir**, I am a
 - Web developer? (maybe)
 - 2d Artist
 
-![](https://data.whicdn.com/images/96225910/original.gif)
+![](https://i.pinimg.com/originals/97/eb/84/97eb847eb98bba4953eb1b225215601c.gif)
+![](https://c.tenor.com/NgZW2n9kzawAAAAd/ponyo-studio-ghibli.gif)
 
 
 ### work
