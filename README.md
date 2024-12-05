@@ -1,5 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Into 3d graphics
+- 🧑‍💻 6 years as a web developer
+- 🌱 Learning 3d graphics
 - 📫 If You want talk to me, send me an email
 - 😄 Any Pronouns
