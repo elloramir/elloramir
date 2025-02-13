@@ -9,3 +9,5 @@
 ### Live projects
 - [voxel.js](https://elloramir.github.io/voxel-js/)
 - [pomodev](https://elloramir.github.io/pomodev/)
+- [frenzzy fall](https://elloramir.itch.io/frenzy-fall)
+- [deep dive](https://ninja-gamess.itch.io/deep-dive)
