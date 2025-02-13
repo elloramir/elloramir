@@ -8,4 +8,4 @@
 
 ### Live projects
 - [voxel-js](https://elloramir.github.io/voxel-js/)
-- [pomo dev](https://elloramir.github.io/pomodev/)
+- [pomodev](https://elloramir.github.io/pomodev/)
