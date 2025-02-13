@@ -7,5 +7,5 @@
 - 😄 Any Pronouns
 
 ### Live projects
-- [voxel-js](https://elloramir.github.io/voxel-js/)
+- [voxel.js](https://elloramir.github.io/voxel-js/)
 - [pomodev](https://elloramir.github.io/pomodev/)
