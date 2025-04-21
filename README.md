@@ -7,7 +7,7 @@
 - 😄 Any pronouns
 
 ### Live projects
-- [🖥️ Digit Recognition (MNIST)](https://elloramir.github.io/MNIST)
+- [🖥️ Digit Recognition](https://elloramir.github.io/MNIST)
 - [🖥️ Pomodev](https://elloramir.github.io/pomodev/)
 - [🎮 Space Flight](https://elloramir.github.io/plane.io/)
 - [🎮 Voxel.js](https://elloramir.github.io/voxel-js/)
