@@ -9,6 +9,7 @@
 ### Live projects
 - [🖥️ Digit Recognition](https://elloramir.github.io/MNIST)
 - [🖥️ Pomodev](https://elloramir.github.io/pomodev/)
+- [🖥️ Pokedex](https://ibti-jade.vercel.app/create)
 - [🎮 Space Flight](https://elloramir.github.io/plane.io/)
 - [🎮 Voxel.js](https://elloramir.github.io/voxel-js/)
 - [🎮 Frenzy Fall](https://elloramir.itch.io/frenzy-fall)
