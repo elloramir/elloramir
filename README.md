@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍💻 6 years as a web developer
+- 🧑‍💻 7 years as a web developer
 - 🌱 Learning 3D graphics in my free time
 - 🌀 Into minimalist lifestyle
 - 📫 If you want to talk to me, send me an email
