@@ -7,7 +7,7 @@
 - 😄 Any pronouns
 
 ### Live projects
-- [🖥️ Black Hole](elloramir.github.io/black-hole/)
+- [🖥️ Black Hole](https://elloramir.github.io/black-hole/)
 - [🖥️ Digit Recognition](https://elloramir.github.io/MNIST)
 - [🖥️ Pomodev](https://elloramir.github.io/pomodev/)
 - [🖥️ Pokedex](https://ibti-jade.vercel.app/create)
